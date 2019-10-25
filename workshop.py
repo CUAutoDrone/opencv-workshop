@@ -4,7 +4,7 @@ import numpy as np
 targets = [
     ("Image 1", cv2.imread("img/1.jpg"), 4, 4),
     ("Image 2", cv2.imread("img/2.jpg"), 2, 4),
-    ("Image 3", cv2.imread("img/3.jpg"), 6, 8)
+    ("Image 3", cv2.imread("img/3.jpg"), 5, 8)
 ]
 
 for target in targets:
