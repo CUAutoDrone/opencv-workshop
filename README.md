@@ -1,7 +1,7 @@
 # setup
 1. Install Python 3.6.5
    - https://www.python.org/downloads/release/python-365/
-2. Install a good editor if you don’t already have: I reccomend visual studio code
+2. Install a good editor if you don’t already have: I recommend visual studio code
    - https://code.visualstudio.com
 3. Install git
    - https://git-scm.com/downloads
